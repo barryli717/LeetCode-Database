@@ -1,3 +1,3 @@
 # LeetCode_Database
  
-Codes and notes for LeetCode database questions.
+Notes and Codes for LeetCode database questions.
